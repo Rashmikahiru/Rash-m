@@ -8,7 +8,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || 'YASIYA-MD~IdYl3bYB#nRghIh0v8BuMbfyDE-GtrfbzQR10LHAshvCUgQ4-1vE',
+    SESSION_ID: process.env.SESSION_ID || 'YASIYA-MD~IRwSGADK#WShOHWlJnSeIYiC8PfOsHGr2v-dFg1qmq5fVUENt1UU',
     BOT_NUMBER: process.env.BOT_NUMBER || '',
     DATABASE_URL: process.env.DATABASE_URL || 'mongodb://mongo:jJmGQGCmWuVhYJQUAhMfvXwuPmIFaHTY@ballast.proxy.rlwy.net:54208'
 };
